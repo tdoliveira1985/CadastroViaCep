@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/11/28 19:46:38.000.827,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/07 21:58:04.000.696,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/07 21:59:09.000.593,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/17 23:07:41.000.695,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/17 23:10:42.000.671,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/17 23:12:06.000.717,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/10/25 22:56:50.000.952,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2020/10/12 00:33:36.000.464,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/10/15 18:12:28.000.595,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 18:18:38.000.332,=C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 18:19:49.000.394,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\Thiago\Desktop\Cep\Cliente\UCliente.pas</Transaction>
+    <Transaction>2021/02/14 18:19:49.000.394,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Thiago\Desktop\Cep\Cliente\UCliente.dfm</Transaction>
+    <Transaction>2021/02/14 18:19:54.000.590,C:\Users\Thiago\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Thiago\Desktop\Cep\Cliente\Cliente.dproj</Transaction>
+    <Transaction>2021/02/14 18:28:35.556,=C:\Users\Thiago\Desktop\Cep\viacep-master\src\ViaCEP.Core.pas</Transaction>
+    <Transaction>2021/02/14 18:28:46.690,=C:\Users\Thiago\Desktop\Cep\viacep-master\src\ViaCEP.Intf.pas</Transaction>
+    <Transaction>2021/02/14 18:28:46.698,=C:\Users\Thiago\Desktop\Cep\viacep-master\src\ViaCEP.Model.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
